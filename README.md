@@ -25,5 +25,5 @@ Este proyecto está construido sobre los fundamentos del desarrollo web moderno:
 </p>
 
 ---
-
+*Se avanzara con tecnologias backend.*
 *Desarrollado y optimizado para hacer la documentación técnica mucho más amigable.*
